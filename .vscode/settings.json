@@ -2,6 +2,7 @@
     "files.associations": {
         "initializer_list": "cpp",
         "limits": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "stdbool.h": "c"
     }
 }
